@@ -8,6 +8,3 @@ st.write(
     "Wat extra tekst als test"
 )
 
-st.write(
-    "als het goed is staat dit nu alleen in de lokale versie"
-)
